@@ -1,0 +1,110 @@
+# depslib dependency file v1.0
+1763505070 source:c:\users\pc\documents\programacion\utn\proyecto\proyecto integrador\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<windows.h>
+	"rlutil.h"
+	"tiradas_dados.h"
+	"combinaciones.h"
+
+1763081073 c:\users\pc\documents\programacion\utn\proyecto\proyecto integrador\funciones.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"combinaciones.h"
+
+1763500458 c:\users\pc\documents\programacion\utn\proyecto\proyecto integrador\combinaciones.h
+	<vector>
+
+1763501235 source:c:\users\pc\documents\programacion\utn\proyecto\proyecto integrador\combinaciones.cpp
+	<iostream>
+	<vector>
+	"combinaciones.h"
+
+1763501235 source:c:\users\pc\documents\programacion\utn\proyecto\proyecto integrador\tiradas_dados.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"combinaciones.h"
+	"tiradas_dados.h"
+	"puntaje.h"
+
+1763496947 c:\users\pc\documents\programacion\utn\proyecto\proyecto integrador\tiradas_dados.h
+
+1763497479 source:c:\users\pc\documents\programacion\utn\proyecto\proyecto integrador\puntaje.cpp
+	<iostream>
+	<vector>
+	"puntaje.h"
+	"combinaciones.h"
+
+1763495840 c:\users\pc\documents\programacion\utn\proyecto\proyecto integrador\puntaje.h
+	<vector>
+
+1763502420 c:\users\pc\documents\programacion\utn\proyecto\proyecto integrador\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1763501235 source:c:\users\martin\documents\2025\programacion\proyecto integrador\combinaciones.cpp
+	<iostream>
+	<vector>
+	"combinaciones.h"
+
+1763500458 c:\users\martin\documents\2025\programacion\proyecto integrador\combinaciones.h
+	<vector>
+
+1763497479 source:c:\users\martin\documents\2025\programacion\proyecto integrador\puntaje.cpp
+	<iostream>
+	<vector>
+	"puntaje.h"
+	"combinaciones.h"
+
+1763495840 c:\users\martin\documents\2025\programacion\proyecto integrador\puntaje.h
+	<vector>
+
+1763505398 source:c:\users\martin\documents\2025\programacion\proyecto integrador\tiradas_dados.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"combinaciones.h"
+	"tiradas_dados.h"
+	"puntaje.h"
+
+1763496947 c:\users\martin\documents\2025\programacion\proyecto integrador\tiradas_dados.h
+
+1764039479 source:c:\users\martin\documents\2025\programacion\proyecto integrador\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<windows.h>
+	"rlutil.h"
+	"tiradas_dados.h"
+	"combinaciones.h"
+
+1763502420 c:\users\martin\documents\2025\programacion\proyecto integrador\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
