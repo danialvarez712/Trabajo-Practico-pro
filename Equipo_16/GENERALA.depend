@@ -1,0 +1,247 @@
+# depslib dependency file v1.0
+1720149324 source:c:\users\nahuel\downloads\escaleramain\main.cpp
+	<iostream>
+	"menu.h"
+	"rlutil.h"
+	"juego.h"
+
+1721296339 c:\users\nahuel\downloads\escaleramain\menu.h
+	<ctime>
+	"juego.h"
+
+1732241285 c:\users\nahuel\downloads\escaleramain\juego.h
+	<string>
+
+1571584339 c:\users\nahuel\downloads\escaleramain\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1732244168 source:c:\users\nahuel\downloads\escaleramain\menu.cpp
+	<iostream>
+	"juego.h"
+	<string>
+	"rlutil.h"
+
+1731895550 source:c:\users\nahuel\downloads\escaleramain\juego.cpp
+	<iostream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	"rlutil.h"
+	"juego.h"
+	"funciones.h"
+
+1719920773 c:\users\nahuel\downloads\escaleramain\funciones.h
+	<iostream>
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+
+1720149324 source:c:\users\nahuel\downloads\equipo_05\main.cpp
+	<iostream>
+	"menu.h"
+	"rlutil.h"
+	"juego.h"
+
+1721296339 c:\users\nahuel\downloads\equipo_05\menu.h
+	<ctime>
+	"juego.h"
+
+1732269682 c:\users\nahuel\downloads\equipo_05\juego.h
+
+1571584339 c:\users\nahuel\downloads\equipo_05\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1732244168 source:c:\users\nahuel\downloads\equipo_05\menu.cpp
+	<iostream>
+	"juego.h"
+	<string>
+	"rlutil.h"
+
+1732246620 source:c:\users\nahuel\downloads\equipo_05\juego.cpp
+	<iostream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	"rlutil.h"
+	"juego.h"
+	"funciones.h"
+
+1719920773 c:\users\nahuel\downloads\equipo_05\funciones.h
+	<iostream>
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+
+1720149324 source:c:\users\kekin\documents\programación 1\equipo_05\main.cpp
+	<iostream>
+	"menu.h"
+	"rlutil.h"
+	"juego.h"
+
+1721296339 c:\users\kekin\documents\programación 1\equipo_05\menu.h
+	<ctime>
+	"juego.h"
+
+1732269682 c:\users\kekin\documents\programación 1\equipo_05\juego.h
+
+1571584339 c:\users\kekin\documents\programación 1\equipo_05\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1732282556 source:c:\users\kekin\documents\programación 1\equipo_05\menu.cpp
+	<iostream>
+	"juego.h"
+	<string>
+	"rlutil.h"
+
+1732283879 source:c:\users\kekin\documents\programación 1\equipo_05\juego.cpp
+	<iostream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	"rlutil.h"
+	"juego.h"
+	"funciones.h"
+
+1719920773 c:\users\kekin\documents\programación 1\equipo_05\funciones.h
+	<iostream>
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+
+1733339545 source:c:\users\nahuel\desktop\equipo_05\juego.cpp
+	<iostream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	"rlutil.h"
+	"juego.h"
+	"funciones.h"
+
+1571584339 c:\users\nahuel\desktop\equipo_05\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1732269682 c:\users\nahuel\desktop\equipo_05\juego.h
+
+1719920773 c:\users\nahuel\desktop\equipo_05\funciones.h
+	<iostream>
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+
+1720149324 source:c:\users\nahuel\desktop\equipo_05\main.cpp
+	<iostream>
+	"menu.h"
+	"rlutil.h"
+	"juego.h"
+
+1721296339 c:\users\nahuel\desktop\equipo_05\menu.h
+	<ctime>
+	"juego.h"
+
+1732282556 source:c:\users\nahuel\desktop\equipo_05\menu.cpp
+	<iostream>
+	"juego.h"
+	<string>
+	"rlutil.h"
+
+1764038267 source:c:\users\nahuel\desktop\videos jogos\variado\equipo_05\juego.cpp
+	<iostream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	"rlutil.h"
+	"juego.h"
+	"funciones.h"
+
+1571584339 c:\users\nahuel\desktop\videos jogos\variado\equipo_05\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1732269682 c:\users\nahuel\desktop\videos jogos\variado\equipo_05\juego.h
+
+1719920773 c:\users\nahuel\desktop\videos jogos\variado\equipo_05\funciones.h
+	<iostream>
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+
+1720149324 source:c:\users\nahuel\desktop\videos jogos\variado\equipo_05\main.cpp
+	<iostream>
+	"menu.h"
+	"rlutil.h"
+	"juego.h"
+
+1721296339 c:\users\nahuel\desktop\videos jogos\variado\equipo_05\menu.h
+	<ctime>
+	"juego.h"
+
+1764038571 source:c:\users\nahuel\desktop\videos jogos\variado\equipo_05\menu.cpp
+	<iostream>
+	"juego.h"
+	<string>
+	"rlutil.h"
+
