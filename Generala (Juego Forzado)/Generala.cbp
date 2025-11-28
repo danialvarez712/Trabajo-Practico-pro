@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="proyecto integrador" />
+		<Option execution_dir="A:/generala/Trabajo Integrador grupo 16/" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/proyecto integrador" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/proyecto integrador" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="../proyecto integrador v3.4 -/Creditos.cpp" />
+		<Unit filename="../proyecto integrador v3.4 -/Creditos.h" />
+		<Unit filename="../proyecto integrador v3.4 -/EntreTurnos.cpp" />
+		<Unit filename="../proyecto integrador v3.4 -/EntreTurnos.h" />
+		<Unit filename="../proyecto integrador v3.4 -/PuntajeMaximo.cpp" />
+		<Unit filename="../proyecto integrador v3.4 -/PuntajeMaximo.h" />
+		<Unit filename="../proyecto integrador v3.4 -/combinaciones.cpp" />
+		<Unit filename="../proyecto integrador v3.4 -/combinaciones.h" />
+		<Unit filename="../proyecto integrador v3.4 -/disenioDados.cpp" />
+		<Unit filename="../proyecto integrador v3.4 -/disenioDados.h" />
+		<Unit filename="../proyecto integrador v3.4 -/main.cpp" />
+		<Unit filename="../proyecto integrador v3.4 -/modoDosJugadores.cpp" />
+		<Unit filename="../proyecto integrador v3.4 -/modoDosJugadores.h" />
+		<Unit filename="../proyecto integrador v3.4 -/modoUnJugador.cpp" />
+		<Unit filename="../proyecto integrador v3.4 -/modoUnJugador.h" />
+		<Unit filename="../proyecto integrador v3.4 -/puntaje.cpp" />
+		<Unit filename="../proyecto integrador v3.4 -/puntaje.h" />
+		<Unit filename="../proyecto integrador v3.4 -/rlutil.h" />
+		<Unit filename="../proyecto integrador v3.4 -/tiradas_dados.cpp" />
+		<Unit filename="../proyecto integrador v3.4 -/tiradas_dados.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
