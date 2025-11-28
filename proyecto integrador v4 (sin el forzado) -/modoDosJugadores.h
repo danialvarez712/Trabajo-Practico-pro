@@ -1,0 +1,6 @@
+#ifndef MODODOSJUGADORES_H_INCLUDED
+#define MODODOSJUGADORES_H_INCLUDED
+
+int ModoDosJugadores (string&);
+
+#endif // MODODOSJUGADORES_H_INCLUDED
