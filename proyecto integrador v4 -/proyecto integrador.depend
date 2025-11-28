@@ -1,0 +1,756 @@
+# depslib dependency file v1.0
+1763505070 source:c:\users\pc\documents\programacion\utn\proyecto\proyecto integrador\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<windows.h>
+	"rlutil.h"
+	"tiradas_dados.h"
+	"combinaciones.h"
+
+1763081073 c:\users\pc\documents\programacion\utn\proyecto\proyecto integrador\funciones.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"combinaciones.h"
+
+1763500458 c:\users\pc\documents\programacion\utn\proyecto\proyecto integrador\combinaciones.h
+	<vector>
+
+1763501235 source:c:\users\pc\documents\programacion\utn\proyecto\proyecto integrador\combinaciones.cpp
+	<iostream>
+	<vector>
+	"combinaciones.h"
+
+1763501235 source:c:\users\pc\documents\programacion\utn\proyecto\proyecto integrador\tiradas_dados.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"combinaciones.h"
+	"tiradas_dados.h"
+	"puntaje.h"
+
+1763496947 c:\users\pc\documents\programacion\utn\proyecto\proyecto integrador\tiradas_dados.h
+
+1763497479 source:c:\users\pc\documents\programacion\utn\proyecto\proyecto integrador\puntaje.cpp
+	<iostream>
+	<vector>
+	"puntaje.h"
+	"combinaciones.h"
+
+1763495840 c:\users\pc\documents\programacion\utn\proyecto\proyecto integrador\puntaje.h
+	<vector>
+
+1763502420 c:\users\pc\documents\programacion\utn\proyecto\proyecto integrador\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1763501235 source:c:\users\martin\documents\2025\programacion\proyecto integrador\combinaciones.cpp
+	<iostream>
+	<vector>
+	"combinaciones.h"
+
+1763500458 c:\users\martin\documents\2025\programacion\proyecto integrador\combinaciones.h
+	<vector>
+
+1763497479 source:c:\users\martin\documents\2025\programacion\proyecto integrador\puntaje.cpp
+	<iostream>
+	<vector>
+	"puntaje.h"
+	"combinaciones.h"
+
+1763495840 c:\users\martin\documents\2025\programacion\proyecto integrador\puntaje.h
+	<vector>
+
+1763505398 source:c:\users\martin\documents\2025\programacion\proyecto integrador\tiradas_dados.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"combinaciones.h"
+	"tiradas_dados.h"
+	"puntaje.h"
+
+1763496947 c:\users\martin\documents\2025\programacion\proyecto integrador\tiradas_dados.h
+
+1764039479 source:c:\users\martin\documents\2025\programacion\proyecto integrador\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<windows.h>
+	"rlutil.h"
+	"tiradas_dados.h"
+	"combinaciones.h"
+
+1763502420 c:\users\martin\documents\2025\programacion\proyecto integrador\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1764077582 source:c:\users\nflores\desktop\proyecto integrador -\combinaciones.cpp
+	<iostream>
+	<vector>
+	"combinaciones.h"
+
+1764077582 c:\users\nflores\desktop\proyecto integrador -\combinaciones.h
+	<vector>
+
+1764085271 source:c:\users\nflores\desktop\proyecto integrador -\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<windows.h>
+	"rlutil.h"
+	"tiradas_dados.h"
+	"combinaciones.h"
+
+1764077582 c:\users\nflores\desktop\proyecto integrador -\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1764077582 c:\users\nflores\desktop\proyecto integrador -\tiradas_dados.h
+
+1764077582 source:c:\users\nflores\desktop\proyecto integrador -\puntaje.cpp
+	<iostream>
+	<vector>
+	"puntaje.h"
+	"combinaciones.h"
+
+1764077582 c:\users\nflores\desktop\proyecto integrador -\puntaje.h
+	<vector>
+
+1764077582 source:c:\users\nflores\desktop\proyecto integrador -\tiradas_dados.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"combinaciones.h"
+	"tiradas_dados.h"
+	"puntaje.h"
+
+1764112918 source:c:\users\pc\downloads\trabajo-practico-pro-main\trabajo-practico-pro-main\proyecto integrador v2 -\combinaciones.cpp
+	<iostream>
+	<vector>
+	"combinaciones.h"
+
+1764103395 c:\users\pc\downloads\trabajo-practico-pro-main\trabajo-practico-pro-main\proyecto integrador v2 -\combinaciones.h
+	<vector>
+
+1764114071 source:c:\users\pc\downloads\trabajo-practico-pro-main\trabajo-practico-pro-main\proyecto integrador v2 -\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<windows.h>
+	"rlutil.h"
+	"tiradas_dados.h"
+	"combinaciones.h"
+	"PuntajeMaximo.h"
+	"Creditos.h"
+	"EntreTurnos.h"
+
+1764103395 c:\users\pc\downloads\trabajo-practico-pro-main\trabajo-practico-pro-main\proyecto integrador v2 -\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1764103395 c:\users\pc\downloads\trabajo-practico-pro-main\trabajo-practico-pro-main\proyecto integrador v2 -\tiradas_dados.h
+
+1764112791 source:c:\users\pc\downloads\trabajo-practico-pro-main\trabajo-practico-pro-main\proyecto integrador v2 -\puntaje.cpp
+	<iostream>
+	<vector>
+	"puntaje.h"
+	"combinaciones.h"
+
+1764103395 c:\users\pc\downloads\trabajo-practico-pro-main\trabajo-practico-pro-main\proyecto integrador v2 -\puntaje.h
+	<vector>
+
+1764104036 source:c:\users\pc\downloads\trabajo-practico-pro-main\trabajo-practico-pro-main\proyecto integrador v2 -\tiradas_dados.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"combinaciones.h"
+	"tiradas_dados.h"
+	"puntaje.h"
+
+1764113900 source:c:\users\pc\downloads\trabajo-practico-pro-main\trabajo-practico-pro-main\proyecto integrador v2 -\puntajemaximo.cpp
+	<iostream>
+	<string>
+	"rlutil.h"
+	"PuntajeMaximo.h"
+
+1764107280 c:\users\pc\downloads\trabajo-practico-pro-main\trabajo-practico-pro-main\proyecto integrador v2 -\puntajemaximo.h
+	<string>
+
+1764114122 source:c:\users\pc\downloads\trabajo-practico-pro-main\trabajo-practico-pro-main\proyecto integrador v2 -\creditos.cpp
+	<iostream>
+	"Creditos.h"
+
+1764107632 c:\users\pc\downloads\trabajo-practico-pro-main\trabajo-practico-pro-main\proyecto integrador v2 -\creditos.h
+
+1764112868 source:c:\users\pc\downloads\trabajo-practico-pro-main\trabajo-practico-pro-main\proyecto integrador v2 -\entreturnos.cpp
+	<iostream>
+	<string>
+	"rlutil.h"
+
+1764109727 c:\users\pc\downloads\trabajo-practico-pro-main\trabajo-practico-pro-main\proyecto integrador v2 -\entreturnos.h
+
+1764123736 source:c:\users\nahuel\desktop\proyecto integrador v3 -\combinaciones.cpp
+	<iostream>
+	<vector>
+	"combinaciones.h"
+
+1764123736 c:\users\nahuel\desktop\proyecto integrador v3 -\combinaciones.h
+	<vector>
+
+1764123736 source:c:\users\nahuel\desktop\proyecto integrador v3 -\creditos.cpp
+	<iostream>
+	"Creditos.h"
+
+1764123736 c:\users\nahuel\desktop\proyecto integrador v3 -\creditos.h
+
+1764123736 source:c:\users\nahuel\desktop\proyecto integrador v3 -\entreturnos.cpp
+	<iostream>
+	<string>
+	"rlutil.h"
+
+1764123736 c:\users\nahuel\desktop\proyecto integrador v3 -\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1764123736 source:c:\users\nahuel\desktop\proyecto integrador v3 -\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<windows.h>
+	"rlutil.h"
+	"tiradas_dados.h"
+	"combinaciones.h"
+	"PuntajeMaximo.h"
+	"Creditos.h"
+	"EntreTurnos.h"
+
+1764123736 c:\users\nahuel\desktop\proyecto integrador v3 -\tiradas_dados.h
+
+1764123736 c:\users\nahuel\desktop\proyecto integrador v3 -\puntajemaximo.h
+	<string>
+
+1764123736 c:\users\nahuel\desktop\proyecto integrador v3 -\entreturnos.h
+
+1764123736 source:c:\users\nahuel\desktop\proyecto integrador v3 -\puntaje.cpp
+	<iostream>
+	<vector>
+	"puntaje.h"
+	"combinaciones.h"
+
+1764123736 c:\users\nahuel\desktop\proyecto integrador v3 -\puntaje.h
+	<vector>
+
+1764123736 source:c:\users\nahuel\desktop\proyecto integrador v3 -\puntajemaximo.cpp
+	<iostream>
+	<string>
+	"rlutil.h"
+	"PuntajeMaximo.h"
+
+1764126956 source:c:\users\nahuel\desktop\proyecto integrador v3 -\tiradas_dados.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"combinaciones.h"
+	"tiradas_dados.h"
+	"puntaje.h"
+	"disenioDados.h"
+
+1764125638 c:\users\nahuel\desktop\proyecto integrador v3 -\diseniodados.h
+
+1764126302 source:c:\users\nahuel\desktop\proyecto integrador v3 -\diseniodados.cpp
+	<iostream>
+	"rlutil.h"
+	"disenioDados.h"
+
+1764198516 source:c:\users\pc\downloads\trabajo-practico-pro-main (1)\trabajo-practico-pro-main\proyecto integrador v3.1 -\combinaciones.cpp
+	<iostream>
+	<vector>
+	"combinaciones.h"
+
+1764180582 c:\users\pc\downloads\trabajo-practico-pro-main (1)\trabajo-practico-pro-main\proyecto integrador v3.1 -\combinaciones.h
+	<vector>
+
+1764180582 source:c:\users\pc\downloads\trabajo-practico-pro-main (1)\trabajo-practico-pro-main\proyecto integrador v3.1 -\creditos.cpp
+	<iostream>
+	"Creditos.h"
+
+1764180582 c:\users\pc\downloads\trabajo-practico-pro-main (1)\trabajo-practico-pro-main\proyecto integrador v3.1 -\creditos.h
+
+1764204901 source:c:\users\pc\downloads\trabajo-practico-pro-main (1)\trabajo-practico-pro-main\proyecto integrador v3.1 -\entreturnos.cpp
+	<iostream>
+	<string>
+	"rlutil.h"
+
+1764180582 c:\users\pc\downloads\trabajo-practico-pro-main (1)\trabajo-practico-pro-main\proyecto integrador v3.1 -\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1764204998 source:c:\users\pc\downloads\trabajo-practico-pro-main (1)\trabajo-practico-pro-main\proyecto integrador v3.1 -\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<windows.h>
+	"rlutil.h"
+	"tiradas_dados.h"
+	"combinaciones.h"
+	"PuntajeMaximo.h"
+	"Creditos.h"
+	"EntreTurnos.h"
+	"modoDosJugadores.h"
+
+1764180582 c:\users\pc\downloads\trabajo-practico-pro-main (1)\trabajo-practico-pro-main\proyecto integrador v3.1 -\tiradas_dados.h
+
+1764205698 c:\users\pc\downloads\trabajo-practico-pro-main (1)\trabajo-practico-pro-main\proyecto integrador v3.1 -\puntajemaximo.h
+	<string>
+
+1764196384 c:\users\pc\downloads\trabajo-practico-pro-main (1)\trabajo-practico-pro-main\proyecto integrador v3.1 -\entreturnos.h
+
+1764180582 source:c:\users\pc\downloads\trabajo-practico-pro-main (1)\trabajo-practico-pro-main\proyecto integrador v3.1 -\puntaje.cpp
+	<iostream>
+	<vector>
+	"puntaje.h"
+	"combinaciones.h"
+
+1764180582 c:\users\pc\downloads\trabajo-practico-pro-main (1)\trabajo-practico-pro-main\proyecto integrador v3.1 -\puntaje.h
+	<vector>
+
+1764205681 source:c:\users\pc\downloads\trabajo-practico-pro-main (1)\trabajo-practico-pro-main\proyecto integrador v3.1 -\puntajemaximo.cpp
+	<iostream>
+	<string>
+	"rlutil.h"
+	"PuntajeMaximo.h"
+
+1764188495 source:c:\users\pc\downloads\trabajo-practico-pro-main (1)\trabajo-practico-pro-main\proyecto integrador v3.1 -\diseniodados.cpp
+	<iostream>
+	"rlutil.h"
+	"disenioDados.h"
+
+1764185769 c:\users\pc\downloads\trabajo-practico-pro-main (1)\trabajo-practico-pro-main\proyecto integrador v3.1 -\diseniodados.h
+	<vector>
+
+1764189127 source:c:\users\pc\downloads\trabajo-practico-pro-main (1)\trabajo-practico-pro-main\proyecto integrador v3.1 -\tiradas_dados.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"rlutil.h"
+	"combinaciones.h"
+	"tiradas_dados.h"
+	"puntaje.h"
+	"disenioDados.h"
+
+1764205681 source:c:\users\pc\downloads\trabajo-practico-pro-main (1)\trabajo-practico-pro-main\proyecto integrador v3.1 -\mododosjugadores.cpp
+	<iostream>
+	<string>
+	<vector>
+	"rlutil.h"
+	"tiradas_dados.h"
+	"puntaje.h"
+	"EntreTurnos.h"
+	"PuntajeMaximo.h"
+
+1764189459 c:\users\pc\downloads\trabajo-practico-pro-main (1)\trabajo-practico-pro-main\proyecto integrador v3.1 -\mododosjugadores.h
+
+1764280563 source:c:\users\pc\downloads\trabajo-practico-pro-main (1)\trabajo-practico-pro-main\proyecto integrador v3.2 -\creditos.cpp
+	<iostream>
+	<string>
+	<vector>
+	"rlutil.h"
+
+1764180582 c:\users\pc\downloads\trabajo-practico-pro-main (1)\trabajo-practico-pro-main\proyecto integrador v3.2 -\creditos.h
+
+1764279688 source:c:\users\pc\downloads\trabajo-practico-pro-main (1)\trabajo-practico-pro-main\proyecto integrador v3.2 -\entreturnos.cpp
+	<iostream>
+	<string>
+	"rlutil.h"
+
+1764180582 c:\users\pc\downloads\trabajo-practico-pro-main (1)\trabajo-practico-pro-main\proyecto integrador v3.2 -\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1764279487 source:c:\users\pc\downloads\trabajo-practico-pro-main (1)\trabajo-practico-pro-main\proyecto integrador v3.2 -\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<windows.h>
+	"rlutil.h"
+	"tiradas_dados.h"
+	"combinaciones.h"
+	"PuntajeMaximo.h"
+	"Creditos.h"
+	"EntreTurnos.h"
+	"modoDosJugadores.h"
+	"modoUnJugador.h"
+
+1764281598 c:\users\pc\downloads\trabajo-practico-pro-main (1)\trabajo-practico-pro-main\proyecto integrador v3.2 -\tiradas_dados.h
+
+1764281598 c:\users\pc\downloads\trabajo-practico-pro-main (1)\trabajo-practico-pro-main\proyecto integrador v3.2 -\combinaciones.h
+	<vector>
+
+1764276903 c:\users\pc\downloads\trabajo-practico-pro-main (1)\trabajo-practico-pro-main\proyecto integrador v3.2 -\puntajemaximo.h
+	<string>
+
+1764196384 c:\users\pc\downloads\trabajo-practico-pro-main (1)\trabajo-practico-pro-main\proyecto integrador v3.2 -\entreturnos.h
+
+1764276821 c:\users\pc\downloads\trabajo-practico-pro-main (1)\trabajo-practico-pro-main\proyecto integrador v3.2 -\mododosjugadores.h
+
+1764279013 source:c:\users\pc\downloads\trabajo-practico-pro-main (1)\trabajo-practico-pro-main\proyecto integrador v3.2 -\mododosjugadores.cpp
+	<iostream>
+	<string>
+	<vector>
+	"rlutil.h"
+	"tiradas_dados.h"
+	"EntreTurnos.h"
+	"PuntajeMaximo.h"
+
+1764281598 c:\users\pc\downloads\trabajo-practico-pro-main (1)\trabajo-practico-pro-main\proyecto integrador v3.2 -\puntaje.h
+	<vector>
+
+1764281598 source:c:\users\pc\downloads\trabajo-practico-pro-main (1)\trabajo-practico-pro-main\proyecto integrador v3.2 -\puntaje.cpp
+	<iostream>
+	<vector>
+	"puntaje.h"
+	"combinaciones.h"
+
+1764276919 source:c:\users\pc\downloads\trabajo-practico-pro-main (1)\trabajo-practico-pro-main\proyecto integrador v3.2 -\puntajemaximo.cpp
+	<iostream>
+	<string>
+	"rlutil.h"
+	"PuntajeMaximo.h"
+
+1764281709 source:c:\users\pc\downloads\trabajo-practico-pro-main (1)\trabajo-practico-pro-main\proyecto integrador v3.2 -\tiradas_dados.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"rlutil.h"
+	"combinaciones.h"
+	"tiradas_dados.h"
+	"puntaje.h"
+	"disenioDados.h"
+
+1764281598 c:\users\pc\downloads\trabajo-practico-pro-main (1)\trabajo-practico-pro-main\proyecto integrador v3.2 -\diseniodados.h
+	<vector>
+
+1764281598 source:c:\users\pc\downloads\trabajo-practico-pro-main (1)\trabajo-practico-pro-main\proyecto integrador v3.2 -\combinaciones.cpp
+	<iostream>
+	<vector>
+	"combinaciones.h"
+
+1764281598 source:c:\users\pc\downloads\trabajo-practico-pro-main (1)\trabajo-practico-pro-main\proyecto integrador v3.2 -\diseniodados.cpp
+	<iostream>
+	"rlutil.h"
+	"disenioDados.h"
+
+1764279349 source:c:\users\pc\downloads\trabajo-practico-pro-main (1)\trabajo-practico-pro-main\proyecto integrador v3.2 -\modounjugador.cpp
+	<iostream>
+	<string>
+	<vector>
+	"rlutil.h"
+	"tiradas_dados.h"
+	"EntreTurnos.h"
+	"PuntajeMaximo.h"
+
+1764279320 c:\users\pc\downloads\trabajo-practico-pro-main (1)\trabajo-practico-pro-main\proyecto integrador v3.2 -\modounjugador.h
+
+1764281744 source:c:\users\pc\downloads\trabajo-practico-pro-main (1)\trabajo-practico-pro-main\proyecto integrador v3.3 -\combinaciones.cpp
+	<iostream>
+	<vector>
+	"combinaciones.h"
+
+1764281598 c:\users\pc\downloads\trabajo-practico-pro-main (1)\trabajo-practico-pro-main\proyecto integrador v3.3 -\combinaciones.h
+	<vector>
+
+1764280563 source:c:\users\pc\downloads\trabajo-practico-pro-main (1)\trabajo-practico-pro-main\proyecto integrador v3.3 -\creditos.cpp
+	<iostream>
+	<string>
+	<vector>
+	"rlutil.h"
+
+1764180582 c:\users\pc\downloads\trabajo-practico-pro-main (1)\trabajo-practico-pro-main\proyecto integrador v3.3 -\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1764299185 source:c:\users\pc\downloads\trabajo-practico-pro-main (1)\trabajo-practico-pro-main\proyecto integrador v3.3 -\diseniodados.cpp
+	<iostream>
+	"rlutil.h"
+	"disenioDados.h"
+
+1764299185 c:\users\pc\downloads\trabajo-practico-pro-main (1)\trabajo-practico-pro-main\proyecto integrador v3.3 -\diseniodados.h
+	<vector>
+
+1764279688 source:c:\users\pc\downloads\trabajo-practico-pro-main (1)\trabajo-practico-pro-main\proyecto integrador v3.3 -\entreturnos.cpp
+	<iostream>
+	<string>
+	"rlutil.h"
+
+1764286554 source:c:\users\pc\downloads\trabajo-practico-pro-main (1)\trabajo-practico-pro-main\proyecto integrador v3.3 -\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<windows.h>
+	"rlutil.h"
+	"tiradas_dados.h"
+	"combinaciones.h"
+	"PuntajeMaximo.h"
+	"Creditos.h"
+	"EntreTurnos.h"
+	"modoDosJugadores.h"
+	"modoUnJugador.h"
+
+1764281598 c:\users\pc\downloads\trabajo-practico-pro-main (1)\trabajo-practico-pro-main\proyecto integrador v3.3 -\tiradas_dados.h
+
+1764276903 c:\users\pc\downloads\trabajo-practico-pro-main (1)\trabajo-practico-pro-main\proyecto integrador v3.3 -\puntajemaximo.h
+	<string>
+
+1764180582 c:\users\pc\downloads\trabajo-practico-pro-main (1)\trabajo-practico-pro-main\proyecto integrador v3.3 -\creditos.h
+
+1764196384 c:\users\pc\downloads\trabajo-practico-pro-main (1)\trabajo-practico-pro-main\proyecto integrador v3.3 -\entreturnos.h
+
+1764276821 c:\users\pc\downloads\trabajo-practico-pro-main (1)\trabajo-practico-pro-main\proyecto integrador v3.3 -\mododosjugadores.h
+
+1764279320 c:\users\pc\downloads\trabajo-practico-pro-main (1)\trabajo-practico-pro-main\proyecto integrador v3.3 -\modounjugador.h
+
+1764279013 source:c:\users\pc\downloads\trabajo-practico-pro-main (1)\trabajo-practico-pro-main\proyecto integrador v3.3 -\mododosjugadores.cpp
+	<iostream>
+	<string>
+	<vector>
+	"rlutil.h"
+	"tiradas_dados.h"
+	"EntreTurnos.h"
+	"PuntajeMaximo.h"
+
+1764279349 source:c:\users\pc\downloads\trabajo-practico-pro-main (1)\trabajo-practico-pro-main\proyecto integrador v3.3 -\modounjugador.cpp
+	<iostream>
+	<string>
+	<vector>
+	"rlutil.h"
+	"tiradas_dados.h"
+	"EntreTurnos.h"
+	"PuntajeMaximo.h"
+
+1764281598 source:c:\users\pc\downloads\trabajo-practico-pro-main (1)\trabajo-practico-pro-main\proyecto integrador v3.3 -\puntaje.cpp
+	<iostream>
+	<vector>
+	"puntaje.h"
+	"combinaciones.h"
+
+1764281598 c:\users\pc\downloads\trabajo-practico-pro-main (1)\trabajo-practico-pro-main\proyecto integrador v3.3 -\puntaje.h
+	<vector>
+
+1764276919 source:c:\users\pc\downloads\trabajo-practico-pro-main (1)\trabajo-practico-pro-main\proyecto integrador v3.3 -\puntajemaximo.cpp
+	<iostream>
+	<string>
+	"rlutil.h"
+	"PuntajeMaximo.h"
+
+1764299328 source:c:\users\pc\downloads\trabajo-practico-pro-main (1)\trabajo-practico-pro-main\proyecto integrador v3.3 -\tiradas_dados.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"rlutil.h"
+	"combinaciones.h"
+	"tiradas_dados.h"
+	"puntaje.h"
+	"disenioDados.h"
+
+1764299857 source:c:\users\nahuel\desktop\proyecto integrador v3.4 -\combinaciones.cpp
+	<iostream>
+	<vector>
+	"combinaciones.h"
+
+1764299857 c:\users\nahuel\desktop\proyecto integrador v3.4 -\combinaciones.h
+	<vector>
+
+1764299857 source:c:\users\nahuel\desktop\proyecto integrador v3.4 -\creditos.cpp
+	<iostream>
+	<string>
+	<vector>
+	"rlutil.h"
+
+1764299857 c:\users\nahuel\desktop\proyecto integrador v3.4 -\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1764299857 source:c:\users\nahuel\desktop\proyecto integrador v3.4 -\diseniodados.cpp
+	<iostream>
+	"rlutil.h"
+	"disenioDados.h"
+
+1764299857 c:\users\nahuel\desktop\proyecto integrador v3.4 -\diseniodados.h
+	<vector>
+
+1764299857 source:c:\users\nahuel\desktop\proyecto integrador v3.4 -\entreturnos.cpp
+	<iostream>
+	<string>
+	"rlutil.h"
+
+1764299857 source:c:\users\nahuel\desktop\proyecto integrador v3.4 -\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<windows.h>
+	"rlutil.h"
+	"tiradas_dados.h"
+	"combinaciones.h"
+	"PuntajeMaximo.h"
+	"Creditos.h"
+	"EntreTurnos.h"
+	"modoDosJugadores.h"
+	"modoUnJugador.h"
+
+1764301281 c:\users\nahuel\desktop\proyecto integrador v3.4 -\tiradas_dados.h
+
+1764299857 c:\users\nahuel\desktop\proyecto integrador v3.4 -\puntajemaximo.h
+	<string>
+
+1764299857 c:\users\nahuel\desktop\proyecto integrador v3.4 -\creditos.h
+
+1764299857 c:\users\nahuel\desktop\proyecto integrador v3.4 -\entreturnos.h
+
+1764299857 c:\users\nahuel\desktop\proyecto integrador v3.4 -\mododosjugadores.h
+
+1764299857 c:\users\nahuel\desktop\proyecto integrador v3.4 -\modounjugador.h
+
+1764299857 source:c:\users\nahuel\desktop\proyecto integrador v3.4 -\mododosjugadores.cpp
+	<iostream>
+	<string>
+	<vector>
+	"rlutil.h"
+	"tiradas_dados.h"
+	"EntreTurnos.h"
+	"PuntajeMaximo.h"
+
+1764299857 source:c:\users\nahuel\desktop\proyecto integrador v3.4 -\puntaje.cpp
+	<iostream>
+	<vector>
+	"puntaje.h"
+	"combinaciones.h"
+
+1764299857 c:\users\nahuel\desktop\proyecto integrador v3.4 -\puntaje.h
+	<vector>
+
+1764299857 source:c:\users\nahuel\desktop\proyecto integrador v3.4 -\puntajemaximo.cpp
+	<iostream>
+	<string>
+	"rlutil.h"
+	"PuntajeMaximo.h"
+
+1764306815 source:c:\users\nahuel\desktop\proyecto integrador v3.4 -\tiradas_dados.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"rlutil.h"
+	"combinaciones.h"
+	"tiradas_dados.h"
+	"puntaje.h"
+	"disenioDados.h"
+
+1764306777 source:c:\users\nahuel\desktop\proyecto integrador v3.4 -\modounjugador.cpp
+	<iostream>
+	<string>
+	<vector>
+	"rlutil.h"
+	"tiradas_dados.h"
+	"EntreTurnos.h"
+	"PuntajeMaximo.h"
+
